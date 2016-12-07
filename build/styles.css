@@ -1,0 +1,7 @@
+/*! 合并的模块都在此该文件下包括了js css 图片 */
+html{
+    background:skyblue;
+    h1{
+        font-size:18px;
+    }
+}
