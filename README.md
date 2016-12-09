@@ -1,3 +1,16 @@
+## 案例使用手册
+	
+	//下载项目包
+	git clone git@github.com:heimiao/react-webpack.git
+	//跳转到react-webpack目录下
+	cd react-webpack
+	//安装依赖包
+	npm install 
+	//启动项目
+	npm run dev
+	
+	访问http:localhost:6868
+
 ---
 
 layout: index
